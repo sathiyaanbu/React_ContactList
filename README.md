@@ -1,5 +1,5 @@
 # React_ContactList
- This is the simple contact manager app where you can Add, Edit/update, Delete contact details. I used only React without redux. The same app using redux will be in the another repository. I'll update soon.
+ This is the simple contact manager app where you can Add, Edit/update, Delete contact details. I used only React/webpack4/Bootstrap4 without redux. The same app using redux will be in the another repository. I'll update soon.
 
 # Quick Start
 
